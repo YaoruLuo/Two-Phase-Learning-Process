@@ -3,7 +3,7 @@
 ## Introduction
 This is the official code of 
 
-[Enhancing Robustness of Deep Networks Against Noisy Labels Based on A Two-Phase Formulation of Their Learning Behavior] (ICME-2023). 
+"Enhancing Robustness of Deep Networks Against Noisy Labels Based on A Two-Phase Formulation of Their Learning Behavior" (ICME-2023). 
 
 The code is coming soon.
 
