@@ -1,7 +1,5 @@
 # Two-Phase-Learning-Process-of-DNNs-Training-with-Noisy-Labels
 
-# Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation 
-
 ## Introduction
 This is the official code of 
 
